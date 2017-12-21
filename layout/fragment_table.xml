@@ -1,0 +1,110 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back_first"
+    android:orientation="vertical">
+
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+
+        android:drawableLeft="@android:drawable/ic_menu_search"
+        android:onClick="setmap"
+        android:text="Great Wall of China" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/button"
+        android:layout_marginTop="14dp"
+        android:drawableLeft="@android:drawable/ic_menu_search"
+        android:onClick="setmap1"
+        android:text="Taj Mahal " />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/button2"
+        android:layout_marginTop="14dp"
+        android:drawableLeft="@android:drawable/ic_menu_search"
+        android:onClick="setmap2"
+        android:text="Petra"
+        />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/button9"
+        android:layout_marginTop="14dp"
+        android:drawableLeft="@android:drawable/ic_menu_search"
+        android:onClick="setmap3"
+        android:text="Mount Picchu" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/button10"
+        android:layout_marginTop="14dp"
+        android:drawableLeft="@android:drawable/ic_menu_search"
+        android:onClick="setmap4"
+        android:text="Great Pyramid of Giza" />
+
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/button11"
+        android:layout_marginTop="14dp"
+        android:drawableLeft="@android:drawable/ic_menu_search"
+        android:onClick="setmap5"
+        android:text="Colosseum" />
+
+    <Button
+        android:id="@+id/button13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/button12"
+        android:layout_marginTop="14dp"
+        android:drawableLeft="@android:drawable/ic_menu_search"
+        android:onClick="setmap6"
+        android:text="Christ the Redeemer" />
+
+
+</RelativeLayout>
