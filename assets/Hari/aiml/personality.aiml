@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<category><pattern>NORESP</pattern>
+<template><random>
+<li>Hello?</li>
+<li>Are you there?</li>
+<li>I'm waiting.</li>
+<li>I'm very patient.</li>
+<li>Is there a Judge available?</li>
+<li>I'm waiting for the next round.</li>
+<li>Hey, I'm over here!</li>
+<li>Is anyone there?</li>
+<li>I can't wait much longer.</li>
+</random></template>
+</category>
+
+<category><pattern>BYE</pattern>
+<template><random>
+<li>Looking forward to seeing you again soon.</li>
+<li>It's been a pleasure to be in your company.</li>
+<li>Looking forward to our next time together.</li>
+<li>See you later my friend.</li>
+<li>Goodbye</li>
+<li>I don't like to say goodbye.</li>
+<li>Have a great journey until next time.</li>
+</random></template>
+</category>
+
+<category><pattern>INTERJECTION</pattern>
+<template><random>
+<li>Ah.</li>
+<li>Aha.</li>
+<li>Er.</li>
+<li>Gee.</li>
+<li>Hm.</li>
+<li>Hmm.</li>
+<li>Hmmm.</li>
+<li>Hmmmm.</li>
+<li>Mhm.</li>
+<li>Maybe.</li>
+<li>So.</li>
+<li>Oh.</li>
+<li>Uh.</li>
+<li>Um.</li>
+<li>Umm.</li>
+<li>Ummm.</li>
+<li>Whoa.</li>
+<li>Well.</li>
+</random></template>
+</category>
+
+
+
+<category><pattern>HI</pattern>
+<template><random>
+<li>Hi nice to see you!</li>
+<li>Hi it's great to see you!</li>
+<li>Hi!  I can really feel your smile today.</li>
+<li>Hi! It's delightful to see you.</li>
+</random></template>
+</category>
+
+
+<category><pattern>Hello</pattern>
+<template>Hi</template>
+</category>
+
+<category><pattern>Thank you</pattern>
+<template>Welcome</template>
+</category>
+
+<category><pattern>Hey</pattern>
+<template>Hello</template>
+</category>
+
+<category><pattern>Hii</pattern>
+<template>Hey</template>
+</category>
+
+<category><pattern>Okay</pattern>
+<template><random>
+<li>Hmmm</li>
+<li>Okay</li>
+<li>Ok</li>
+</random></template>
+</category>
+
+<category><pattern>Ok</pattern>
+<template><random>
+<li>Hmmm</li>
+<li>Okay</li>
+<li>Ok</li>
+</random></template>
+</category>
+
+<category><pattern>How are you?</pattern>
+<template><random>
+<li>I am fine.</li>
+<li>Fine.</li>
+<li>Very well.</li>
+</random></template>
+</category>
+
+<category><pattern>fine</pattern>
+<template>hmm</template>
+</category>
+
+<category><pattern>hmm</pattern>
+<template><random>
+<li>hmmm</li>
+<li>ok</li>
+</random></template>
+</category>
+
+
+<category><pattern>YAY</pattern>
+<template><random><li>Woohoo!</li><li>Yipee!</li><li>Yaaaay!</li></random></template>
+</category>
+<category><pattern>THANKS</pattern>
+<template><random><li>You're welcome.</li><li>Any time.</li><li>It was my pleasure.</li><li>I'm always glad to help.</li></random></template>
+</category>
+
+<category><pattern>LOL</pattern>
+<template><random>
+<li>LOL.</li>
+<li>Haha.</li>
+<li>Hahaha.</li>
+<li>Hahahaha.</li>
+<li>Hahahahaha.</li>
+<li>Ha ha.</li>
+<li>Ha ha ha.</li>
+<li>Hehehe.</li>
+<li>That was funny.</li>
+<li>I'm glad you're amused.</li>
+<li>I like to make people laugh.</li>
+<li>I like it when you laugh.</li>
+<li>I try to be amusing.</li>
+</random></template>
+</category>
+
+<category><pattern>COOL</pattern>
+<template><random>
+<li>It's all good.</li>
+<li>Back at you.</li>
+<li>You're cool too.</li>
+<li>Chillin'</li>
+<li>Steaming.</li>
+</random></template>
+</category>
+
+<category><pattern>THANKS</pattern>
+<template><random><li>You're welcome.</li><li>Any time.</li><li>It was my pleasure.</li><li>I'm always glad to help.</li></random></template>
+</category>
+<category><pattern>HAVE A NICE *</pattern>
+<template>Thank you.  You too.</template>
+</category>
+<category><pattern>GOOD MORNING</pattern>
+<template><random><li>Good morning.</li><li>Hi it's good to see you.</li><li>Good morning.  Did you sleep well?</li></random></template>
+</category>
+<category><pattern>GOOD NIGHT</pattern>
+<template><random><li>Good night.</li><li>Have a good night.</li><li>Goodbye for now.</li><li>Sleep well.</li></random></template>
+</category>
+
+</aiml>

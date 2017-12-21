@@ -1,0 +1,51 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<aiml version = "1.0.1" encoding = "UTF-8"?>
+
+<category>
+    <pattern>Mount Picchu</pattern>
+    <template>What you want to know about Mount Picchu ?Select your category: Brief Information about Mount Picchu   Architecture about Mount Picchu  History of Mount Picchu  Tourist Attraction of Mount Picchu  Facts of Mount Picchu  Visiting Time Of Mount Picchu
+    </template>
+  </category>
+
+   <category>
+      <pattern>brief information about Mount Picchu</pattern>
+      <template>
+        Machu Picchu is a 15th-century Inca citadel situated on a mountain ridge 2430 metres (7970 ft) above sea level.It is located in the Cusco Region Urubamba Province Machupicchu District in Peru above the Sacred Valley which is 80 kilometres (50 mi) northwest of Cuzco and through which the Urubamba River flows.
+      </template>
+   </category>
+
+<category>
+      <pattern>architecture about Mount Picchu</pattern>
+      <template>
+Machu Picchu has about 200 buildings that are considered architectural wonders. These buildings were made of individually shaped pieces of carved gray granite stone that fitted perfectly together. Regular Inca buildings were built with rectangular stones which have 8 corners and 6 sides.
+      </template>
+   </category>
+
+<category>
+      <pattern>history of Mount Picchu</pattern>
+      <template>
+Tucked away in the rocky countryside northwest of Cuzco Peru Machu Picchu is believed to have been a royal estate or sacred religious site for Inca leaders whose civilization was virtually wiped out by Spanish invaders in the 16th century.
+      </template>
+   </category>
+   
+<category>
+      <pattern>tourist attraction of Mount Picchu</pattern>
+      <template>
+	Peru has the best tourist attractions as we mentioned below Machu Picchu Cusco Nazca Lines Sacred Valley Cusco Titicaca Lake Puno Colca Canyon Arequipa The Amazon River Iquitos Tambopata National reserve Puerto Maldonado The Cathedral of Lima.
+      </template>
+   </category>
+    
+<category>
+<pattern>facts of Mount Picchu</pattern>
+<template>
+Around 1000 elephants were employed for the transportation of construction material.
+The construction cost of this masterpiece monument was around Rs.320 million.
+Many types of marbles used were brought from China, Afghanistan, Sri lanka and Arabia.
+In recent times, different studies suggest that the Taj Mahal is sinking in the Yamuna river.
+</template>
+
+<category>
+<pattern>visiting time of Mount Picchu</pattern>
+<template>Saturday-Thursday 8 am-5 pm</template>
+
+</aiml>

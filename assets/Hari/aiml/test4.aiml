@@ -1,0 +1,52 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<aiml version = "1.0.1" encoding = "UTF-8"?>
+
+<category>
+    <pattern>Petra</pattern>
+    <template>
+	What you want to know about Petra ?Select your category: Brief Information about Petra   Architecture about Petra  History of Petra  Tourist Attraction of Petra  Facts of Petra  Visiting Time Of Petra
+    </template>
+  </category>
+
+   <category>
+      <pattern>brief information about Petra</pattern>
+      <template>
+        Petra originally known to the Nabataeans as Raqmu is a historical and archaeological city in southern Jordan. The city is famous for its rock-cut architecture and water conduit system. Another name for Petra is the Rose City due to the color of the stone out of which it is carved.
+      </template>
+   </category>
+
+<category>
+      <pattern>architecture about Petra</pattern>
+      <template>
+	  The architectural style of the Nabataeans was a blend of Assyrian Egyptian Hellenistic and Roman influences that were incorporated into the unique architecture of Petra. Unique in Petra or any other Nabataean site”. combination of architectural characteristics that create the unique Nabataean artform.
+      </template>
+   </category>
+
+<category>
+      <pattern>history of Petra</pattern>
+      <template>
+	  Carved into the sandstone hill by the Nabataeans in the second century A.D. this towering structure likely began as a temple. Carved directly into vibrant red white pink and sandstone cliff faces the prehistoric Jordanian city of Petra was "lost" to the Western world for hundreds of years.
+      </template>
+   </category>
+   
+<category>
+      <pattern>tourist attraction of Petra</pattern>
+      <template>
+	  Every visitor's journey starts at Bab As-Siq the trail that runs from the ticket booth to the Siq. The Treasury. Street of Facades. Hike through Petra. The Royal Tombs. The Colonnaded Street. The Great Temple.
+      </template>
+   </category>
+    
+<category>
+<pattern>facts of Petra</pattern>
+<template>
+Around 1000 elephants were employed for the transportation of construction material.
+The construction cost of this masterpiece monument was around Rs.320 million.
+Many types of marbles used were brought from China, Afghanistan, Sri lanka and Arabia.
+In recent times, different studies suggest that the Taj Mahal is sinking in the Yamuna river.
+</template>
+
+<category>
+<pattern>visiting time of Petra</pattern>
+<template>Saturday-Thursday 8 am-5 pm</template>
+
+</aiml>

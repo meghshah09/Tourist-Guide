@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.journaldev.navigationdrawer">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".Main2_1Activity" />
+        <activity android:name=".Main2_2Activity" />
+        <activity android:name=".Main2_3Activity" />
+        <activity android:name=".Main2_4Activity" />
+        <activity android:name=".Main2_5Activity" />
+        <activity android:name=".Main2_6Activity" />
+
+        <activity
+            android:name=".FullscreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_fullscreen"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".Main22Activity"
+            android:label="@string/title_activity_main22"
+            android:theme="@style/AppTheme" />
+
+        <activity
+            android:name=".Fullscreen2Activity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_fullscreen2"
+            android:theme="@style/FullscreenTheme"></activity>
+
+        <activity
+            android:name=".Fullscreen3Activity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_fullscreen3"
+            android:theme="@style/FullscreenTheme"></activity>
+        <activity
+        android:name=".Fullscreen6Activity"
+
+        android:theme="@style/FullscreenTheme"></activity>
+    <activity
+    android:name=".Fullscreen4Activity"
+
+    android:theme="@style/FullscreenTheme"></activity>
+    <activity
+    android:name=".Fullscreen5Activity"
+
+    android:theme="@style/FullscreenTheme"></activity>
+
+        <activity
+            android:name=".Fullscreen7Activity"
+
+            android:theme="@style/FullscreenTheme"></activity>
+
+
+    </application>
+
+</manifest>

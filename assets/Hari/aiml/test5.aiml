@@ -1,0 +1,52 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<aiml version = "1.0.1" encoding = "UTF-8"?>
+
+<category>
+    <pattern>Great Pyramid Of Giza</pattern>
+    <template>
+	What you want to know about Great Pyramid Of Giza ?Select your category: Brief Information about Great Pyramid Of Giza  Architecture about Great Pyramid Of Giza  History of Great Pyramid Of Giza  Tourist Attraction of Great Pyramid Of Giza  Facts of Great Pyramid Of Giza  Visiting Time Of Great Pyramid Of Giza 
+    </template>
+  </category>
+
+   <category>
+      <pattern>brief information about Great Pyramid Of Giza</pattern>
+      <template>
+        The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex bordering what is now El Giza Egypt. It is the oldest of the Seven Wonders of the Ancient World and the only one to remain largely intact.
+      </template>
+   </category>
+
+<category>
+      <pattern>architecture about Great Pyramid Of Giza</pattern>
+      <template>
+	  The Great Pyramid consists of an estimated 2.3 million blocks which most believe to have been transported from nearby quarries. The Tura limestone used for the casing was quarried across the river. The largest granite stones in the pyramid found in the "King's" chamber  weigh 25 to 80 tonnes and were transported from Aswan more than 800 km (500 mi) away.
+      </template>
+   </category>
+
+<category>
+      <pattern>history of Great Pyramid Of Giza</pattern>
+      <template>
+	  The pyramid building began with the late third dynasty and continued until roughly the sixth (c. 2325 B.C.). More than 4000 years later  the Egyptian pyramids still retain much of their majesty  providing a glimpse into the country’s rich and glorious past.
+      </template>
+   </category>
+   
+<category>
+      <pattern>tourist attraction of Great Pyramid Of Giza</pattern>
+      <template>
+	  Major tourist destinations include the millennia-old monuments in the Nile Valley. Principal among them are the Pyramids and Great Sphinx at Giza the Abu Simbel temples south of Aswan and the Karnak Temple Complex and Valley of the Kings near Luxor.
+      </template>
+   </category>
+    
+<category>
+<pattern>facts of Great Pyramid Of Giza</pattern>
+<template>
+Around 1000 elephants were employed for the transportation of construction material.
+The construction cost of this masterpiece monument was around Rs.320 million.
+Many types of marbles used were brought from China, Afghanistan, Sri lanka and Arabia.
+In recent times, different studies suggest that the Taj Mahal is sinking in the Yamuna river.
+</template>
+
+<category>
+<pattern>visiting time of Great Pyramid Of Giza</pattern>
+<template>Saturday-Thursday 8 am-5 pm</template>
+
+</aiml>

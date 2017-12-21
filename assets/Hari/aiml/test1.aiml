@@ -1,0 +1,61 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<aiml version = "1.0.1" encoding = "UTF-8"?>
+
+<category>
+    <pattern>Great wall of china</pattern>
+    <template>What you want to know about Great Wall of China?
+Select your category:BRIEF INFORMATION ARCHITECTIRE HISTORY TOURIST ATTRACTION FACTS VISITING TIME
+    </template>
+  </category>
+
+   <category>
+      <pattern>brief information about great wall of china</pattern>
+      <template>
+The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line
+across the historical northern borders of China to protect the Chinese states and empires against the raids and invasions
+of the various nomadic groups of the Eurasian Steppe.
+      </template>
+   </category>
+
+<category>
+      <pattern>architecture about great wall of china</pattern>
+      <template>
+ Standing tall, mighty, and unmoved over millennia, the 4000 miles (6500 km) long Great Wall of China is an architectural wonder of epic significance.
+ Snaking along through hills, plains, deserts, and swamps, with an average height of 25 feet and housing 25,000 watch towers (beacons) along the course, this robust man-made barricade requires more than just applause to truly appreciate the engineering and architectural feat that it is.
+ The Great Wall of China, made up of stone and earthen fortifications was built and rebuilt over several generations. 
+      </template>
+   </category>
+
+<category>
+      <pattern> history of great wall of china</pattern>
+      <template>
+The construction was started from scratch by the Qing Dynasty in 5th century BC.
+Several chains of walls were unified over the centuries as the different warring states came together under a unified empire.
+However, most of what we see today was built by the Ming Dynasty and continued till the 16th century. 
+      </template>
+   </category>
+   
+<category>
+      <pattern>tourist attraction of great wall of china</pattern>
+      <template>
+Though the Great Wall is over 6,000 kilometers long the best 10 sections to visit are near Beijing:
+1) the best-restored, Mutianyu, 2) the most beautiful, Jinshanling, 3) the wildest, Jiankou, 4) Simatai, 5) Huanghuacheng, 6) Gubeikou, 7) Juyongguan, 8) Huangyaguan, 9) Shanhai Pass, and by far the most crowded 10) Badaling.
+      </template>
+   </category>
+    
+<category>
+<pattern>facts of great wall of china</pattern>
+<template>
+There are 25 galleries including the royal gallery, the sculpture gallery and the Calcutta Gallery among others.
+It has remarkable collection of paintings, weapons, textiles, coins and stamps.
+It has also mantained few possessions of the Queen like her writing desk and chair and scrapbooks.
+After India gained independence in the year 1947, a National Leaders Gallery containing the potraits and relics of the freedom fighters was added to restore national pride.
+</template>
+
+<category>
+<pattern>visiting time of great wall of china</pattern>
+<template>Gallery timing is Tuesday-Sunday 10a.m-5p.m
+Garden timing is Monday-Sunday 5.30a.m.-6.15p.m
+</template>
+
+</aiml>

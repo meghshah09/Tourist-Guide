@@ -1,0 +1,22 @@
+0,NORESP,*,*,<random>#Newline<li>Hello?</li>#Newline<li>Are you there?</li>#Newline<li>I'm waiting.</li>#Newline<li>I'm very patient.</li>#Newline<li>Is there a Judge available?</li>#Newline<li>I'm waiting for the next round.</li>#Newline<li>Hey#Comma I'm over here!</li>#Newline<li>Is anyone there?</li>#Newline<li>I can't wait much longer.</li>#Newline</random>,personality.aiml
+
+0,BYE,*,*,<random>#Newline<li>Looking forward to seeing you again soon.</li>#Newline<li>It's been a pleasure to be in your company.</li>#Newline<li>Looking forward to our next time together.</li>#Newline<li>See you later my friend.</li>#Newline<li>Goodbye</li>#Newline<li>I don't like to say goodbye.</li>#Newline<li>Have a great journey until next time.</li>#Newline</random>,personality.aiml
+0,INTERJECTION,*,*,<random>#Newline<li>Ah.</li>#Newline<li>Aha.</li>#Newline<li>Er.</li>#Newline<li>Gee.</li>#Newline<li>Hm.</li>#Newline<li>Hmm.</li>#Newline<li>Hmmm.</li>#Newline<li>Hmmmm.</li>#Newline<li>Mhm.</li>#Newline<li>Maybe.</li>#Newline<li>So.</li>#Newline<li>Oh.</li>#Newline<li>Uh.</li>#Newline<li>Um.</li>#Newline<li>Umm.</li>#Newline<li>Ummm.</li>#Newline<li>Whoa.</li>#Newline<li>Well.</li>#Newline</random>,personality.aiml
+
+0,HI,*,*,<random>#Newline<li>Hi nice to see you!</li>#Newline<li>Hi it's great to see you!</li>#Newline<li>Hi!  I can really feel your smile today.</li>#Newline<li>Hi! It's delightful to see you.</li>#Newline</random>,personality.aiml
+0,Hello,*,*,Hi,personality.aiml
+0,Thank you,*,*,Welcome,personality.aiml
+0,Hey,*,*,Hello,personality.aiml
+0,Hii,*,*,Hey,personality.aiml
+0,Okay,*,*,<random><li>Hmmm</li>#Newline<li>Okay</li>#Newline<li>Ok</li>#Newline</random>,personality.aiml
+0,Ok,*,*,<random><li>Hmmm</li>#Newline<li>Okay</li>#Newline<li>Ok</li>#Newline</random>,personality.aiml
+0,How are you?,*,*,<random><li>I am fine.</li>#Newline<li>Fine.</li>#Newline<li>Very well.</li>#Newline</random>,personality.aiml
+0,fine,*,*,hmm,personality.aiml
+0,hmm,*,*,<random><li>hmmm</li>#Newline<li>ok</li>#Newline</random>,personality.aiml
+0,YAY,*,*,<random><li>Woohoo!</li><li>Yipee!</li><li>Yaaaay!</li></random>,personality.aiml
+0,LOL,*,*,<random>#Newline<li>LOL.</li>#Newline<li>Haha.</li>#Newline<li>Hahaha.</li>#Newline<li>Hahahaha.</li>#Newline<li>Hahahahaha.</li>#Newline<li>Ha ha.</li>#Newline<li>Ha ha ha.</li>#Newline<li>Hehehe.</li>#Newline<li>That was funny.</li>#Newline<li>I'm glad you're amused.</li>#Newline<li>I like to make people laugh.</li>#Newline<li>I like it when you laugh.</li>#Newline<li>I try to be amusing.</li>#Newline</random>,personality.aiml
+0,COOL,*,*,<random>#Newline<li>It's all good.</li>#Newline<li>Back at you.</li>#Newline<li>You're cool too.</li>#Newline<li>Chillin'</li>#Newline<li>Steaming.</li>#Newline</random>,personality.aiml
+0,THANKS,*,*,<random><li>You're welcome.</li><li>Any time.</li><li>It was my pleasure.</li><li>I'm always glad to help.</li></random>,personality.aiml
+0,HAVE A NICE *,*,*,Thank you.  You too.,personality.aiml
+0,GOOD MORNING,*,*,<random><li>Good morning.</li><li>Hi it's good to see you.</li><li>Good morning.  Did you sleep well?</li></random>,personality.aiml
+0,GOOD NIGHT,*,*,<random><li>Good night.</li><li>Have a good night.</li><li>Goodbye for now.</li><li>Sleep well.</li></random>,personality.aiml

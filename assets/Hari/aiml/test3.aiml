@@ -1,0 +1,53 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<aiml version = "1.0.1" encoding = "UTF-8"?>
+
+<category>
+    <pattern>taj mahal</pattern>
+    <template>What you want to know about tajmahal?
+Select your category:BRIEF INFORMATION ARCHITECTURE THE SLOW DECAY OF TAJ MAHAL TOURIST ATTRACTION FACTS VISITING TIME
+    </template>
+  </category>
+
+   <category>
+      <pattern>brief information</pattern>
+      <template>
+        "Monuments of Agra"."It was built in the 17th century by Shah Jahan in memory of his third wife Mumtaz Mahal". It attracts around 3-4 million tourists every year. 
+        It appears pink in the morning, white in the day and changes to golden in the moonlight.
+      </template>
+   </category>
+
+<category>
+      <pattern>architecture</pattern>
+      <template>
+ The construction of the Taj Mahal started in 1631 and ended in 1653. The architecture is a combination of Persian Islamic and Indian styles. Ustad Ahmad Lahauri was the architect of Taj Mahal. 30 different varieties of semi precious and precious stones were used and is perfectly symmetrical in every way except for the two tombs.
+      </template>
+   </category>
+
+<category>
+      <pattern> the slow decay of taj mahal</pattern>
+      <template>
+Some of the major threats are air and water pollution which are not only affecting the tombs but also making the outer layer of the taj mahal discolor.
+      </template>
+   </category>
+   
+<category>
+      <pattern>tourist attraction</pattern>
+      <template>
+ Agra Fort, Mankameshwar temple, Swami Bagh Samadhi, Fatehpur Sikri, Akbar's Tomb, Ram Bagh, Vrindavan, Jama Masjid, Mehtab Bagh.
+      </template>
+   </category>
+    
+<category>
+<pattern>facts</pattern>
+<template>
+Around 1000 elephants were employed for the transportation of construction material.
+The construction cost of this masterpiece monument was around Rs.320 million.
+Many types of marbles used were brought from China, Afghanistan, Sri lanka and Arabia.
+In recent times, different studies suggest that the Taj Mahal is sinking in the Yamuna river.
+</template>
+
+<category>
+<pattern>visiting time</pattern>
+<template>Saturday-Thursday 8 am-5 pm</template>
+
+</aiml>

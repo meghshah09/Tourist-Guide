@@ -1,0 +1,38 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<aiml version = "1.0.1" encoding = "UTF-8"?>
+
+<category>
+    <pattern>hawa mahal</pattern>
+    <template>Select your category:brief information architecture history tourist attraction
+                                       </template>
+  </category>
+
+   <category>
+      <pattern>brief information</pattern>
+      <template>
+         The renowned Palace Of The Winds or Hawa Mahal is one of the prominent tourist attractions in Jaipur city. 
+      </template>
+   </category>
+
+<category>
+      <pattern>architecture</pattern>
+      <template>
+Hawa Mahal designed as a beehive castle with small windows has a height of 50 feet from its base This structure erected on a thin shield or podium approximately fifty feet high has walls less than a foot thick Constructed of red and pink sandstones by Lal Chand Ustad Hawa Mahal is famous for its windows or 'Jharokhas' which enable free circulation of air within the structure. 
+      </template>
+   </category>
+
+<category>
+      <pattern> history</pattern>
+      <template>
+It was in 1799 that the Kachhwaha Rajput ruler Sawai Pratap Singh grandson of Maharaja Sawai Jai Singh who built Jaipur constructed Hawa Mahal as a continuation of the Royal City Palace. 
+      </template>
+   </category>
+   
+<category>
+      <pattern>tourist attraction</pattern>
+      <template>
+There are numerous attractions around Hawa Mahal such as the famed Jantar Mantar, Govind Devji temple, Amer Fort, Nahargarh Fort, Ram Niwas Bagh, BM Birla Planetarium, Jain Temple, Statue Circle, Sisodia Rani Garden and so on.
+      </template>
+   </category>
+    
+</aiml>
